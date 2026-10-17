@@ -1,5 +1,5 @@
 # main.py
-#import tracker  # This connects to the file your teammates will build
+import tracker  # This connects to the file your teammates will build
 
 def main():
     while True:
@@ -14,17 +14,15 @@ def main():
         
         # Program logic and module integration
         if choice == '1':
-            # This will call Student B's function once they finish it
-            # tracker.add_session()
-            print("Add session feature coming soon!")
+            tracker.add_session()
         elif choice == '2':
             # This will call Student C's function once they finish it
             # tracker.view_summary()
             print("Summary feature coming soon!")
         elif choice == '3':
             # This will call Student C's function once they finish it
-            # tracker.view_all()
-            print("View all feature coming soon!")
+             tracker.view_all()
+            
         elif choice == '4':
             print("Exiting program...")
             break

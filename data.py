@@ -1,0 +1,4 @@
+subjects = []
+minutes = []
+locations = []
+notes = []
