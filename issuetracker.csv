@@ -1,4 +1,6 @@
 "ID",TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 1,Task,b98d248,Closed,Student A - Main Menu and Program Flow,,Nevaeh,13-Oct,13-Oct,13-0ct,
 "ID",TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
-2,task,ba0724f,closed,student B,tracker.py,Ridley,17-oct,17-oct 
+2,task,ba0724f,closed,student B,tracker.py,Ridley,17-oct,17-oct ,,
+"ID",TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+3,Task,,Open,Student C – Summary & View Functions (tracker.py),,Nevaeh,25-oct,25-oct,,
