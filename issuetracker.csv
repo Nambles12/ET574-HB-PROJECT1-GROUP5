@@ -3,4 +3,4 @@
 "ID",TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 2,task,ba0724f,closed,student B,tracker.py,Ridley,17-oct,17-oct ,,
 "ID",TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
-3,Task,,Closed,Student C – Summary & View Functions ,,Nevaeh,25-oct,25-oct,,
+3,Task,67a3ba17bd768abacfb23e5e9e5bef93fca93264,Closed,Student C – Summary & View Functions ,,Nevaeh,25-oct,25-oct,,
